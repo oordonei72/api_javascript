@@ -1,0 +1,19 @@
+{
+  "name": "api_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oordonei72/api_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oordonei72/api_javascript/issues"
+  },
+  "homepage": "https://github.com/oordonei72/api_javascript#readme"
+}
